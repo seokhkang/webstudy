@@ -44,7 +44,7 @@
   .img{
     padding: 16px;
     }
-    @media(max-width:500px){
+    @media(max-width:360px){
       h1 {
         font-size: 5em;
         text-align: left;
